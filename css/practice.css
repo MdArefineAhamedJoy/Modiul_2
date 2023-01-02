@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;900&family=Roboto+Condensed:ital@1&display=swap');
+
+
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+p{
+    color: DodgerBlue;
+    background-color: hsl(0, 100%, 19%);
+    height: 30vh;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 700;
+}
+h1{
+    color: rgb(240,240, 240);
+    background-color: #ee82ee;
+     height: 50vh;
+    font-variant:small-caps; 
+    text-transform: capitalize; 
+    text-indent: 60px;
+}
